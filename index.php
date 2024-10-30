@@ -73,6 +73,25 @@ $modulo = $_GET['modulo'] ?? 'index.php';
             }
             ?>
 
+<div class="info-inmobiliaria">
+        <h2>¿Por qué elegirnos?</h2>
+        <div class="info-cards">
+            <div class="info-card">
+                <h3>Asesoría Personalizada</h3>
+                <p>Nuestro equipo de expertos está aquí para guiarle en cada paso del proceso, asegurando que encuentre la opción perfecta que se ajuste a sus necesidades y presupuesto.</p>
+            </div>
+            <div class="info-card">
+                <h3>Variedad de Opciones</h3>
+                <p>Ya sea que busque comprar, alquilar o invertir, tenemos una variedad de propiedades disponibles para satisfacer sus deseos.</p>
+            </div>
+            <div class="info-card">
+                <h3>Transparencia y Confianza</h3>
+                <p>Nos comprometemos a mantener una comunicación clara y transparente durante toda la transacción, garantizando su confianza y satisfacción.</p>
+            </div>
+        </div>
+    </div>
+
+
             <!-- Sección de Propiedades Destacadas -->
             <section id="destacadas" class="destacadas">
                 <h2>Propiedades Destacadas</h2>
