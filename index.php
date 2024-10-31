@@ -121,5 +121,11 @@ $modulo = $_GET['modulo'] ?? 'index.php';
 <script src="mn_js/mn_script.js"></script>
 
 </body>
-
+<footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2024 Inmobiliaria XYZ. Todos los derechos reservados.</p>
+            <p>Dirección: Siempreviva, 742, Springfield</p>
+            <p>Teléfono: (123) 456-7890</p>
+        </div>
+    </footer>
 </html>

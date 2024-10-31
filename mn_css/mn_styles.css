@@ -175,3 +175,19 @@ button:hover {
 .info-card p {
   font-size: 0.9rem; /* Tamaño de fuente más pequeño */
 }
+
+.footer {
+  background-color: #000; /* Color de fondo negro */
+  color: #fff; /* Color de texto blanco */
+  text-align: center; /* Centramos el texto */
+  padding: 20px 0; /* Espaciado superior e inferior */
+  position: relative; /* Posicionamiento relativo */
+  bottom: 0; /* Posiciona al final de la página */
+  width: 100%; /* Ancho completo */
+}
+
+.footer-content {
+  max-width: 800px; /* Limita el ancho del contenido */
+  margin: 0 auto; /* Centra el contenido */
+  padding: 0 20px; /* Espaciado lateral */
+}
